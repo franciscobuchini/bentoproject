@@ -1,4 +1,4 @@
-import Bento from './Bento.jsx'
+import Bento from './Bento.js'
 
 export default function BentoGrid() {
 
